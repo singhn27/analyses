@@ -1,9 +1,8 @@
 # Scientific and Mathematical Analyses
 
-- Finite Element Analysis
-    - Demos (demonstration of some FEA models in FEniCS)
-        - Picard
-        - Poisson
+- FEA/demos (demonstration of some Finite Element Analysis models in FEniCS)
+    - Picard
+    - Poisson
 
 - Contrails (Spectral graph-theoretic air traffic network analysis)
     - Prerequisites: Haskell Platform (tested on 2014.2.0.0)
