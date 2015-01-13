@@ -5,3 +5,6 @@ Scientific and Mathematical Analyses
     - Demos (demonstration of some FEA models in FEniCS)
       - Picard
       - Poisson
+
+- Contrails
+    - Spectral graph-theoretic air traffic network analysis
