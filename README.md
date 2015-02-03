@@ -1,6 +1,6 @@
 # Scientific and Mathematical Analyses
 
-- Contrails (Spectral graph-theoretic air traffic network analysis)
+- DataScience/Contrails (Spectral graph-theoretic air traffic network analysis)
     - Prerequisites:
       Haskell Platform (tested on 2014.2.0.0)
     - Required Package Installation:
