@@ -1,13 +1,10 @@
 # Scientific and Mathematical Analyses
 
-- DataScience/Contrails (Spectral graph-theoretic air traffic network analysis)
-    - Prerequisites:
-      Haskell Platform (tested on 2014.2.0.0)
-    - Required Package Installation:
-      (sudo) cabal install hmatrix http-conduit zip-archive
-    - Execution:
-      runhaskell main.hs
+- Data Science
+  - Contrails (Spectral graph-theoretic air traffic network analysis)
+  - Spam, Spam, Ham and Spam (SMS Spam Detector with Optimized Support Vector Machine Model)
 
-- FEA/demos (demonstration of some Finite Element Analysis models in FEniCS)
+- FEA
+  - demos (demonstration of some Finite Element Analysis models in FEniCS)
     - Picard
     - Poisson
