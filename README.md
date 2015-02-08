@@ -4,7 +4,7 @@
   - Contrails (Spectral graph-theoretic air traffic network analysis)
   - Spam, Spam, Ham and Spam (SMS Spam Detector with Optimized Support Vector Machine Model)
 
-- FEA
+- Finite Element Analysis
   - demos (demonstration of some Finite Element Analysis models in FEniCS)
     - Picard
     - Poisson
